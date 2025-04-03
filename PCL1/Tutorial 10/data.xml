@@ -1,0 +1,37 @@
+<library>
+    <book>
+        <title>Python for Beginners</title>
+        <author>John Doe</author>
+        <year>2020</year>
+    </book>
+    <book>
+        <title>Advanced Python</title>
+        <author>Jane Smith</author>
+        <year>2021</year>
+    </book>
+    <book>
+        <title>Data Science with Python</title>
+        <author>Samuel Green</author>
+        <year>2022</year>
+    </book>
+    <book>
+        <title>Python Programming</title>
+        <author>Emily Brown</author>
+        <year>2023</year>
+    </book>
+    <book>
+        <title>Jonathan Livingstone Seagull</title>
+        <author>Richard Bach</author>
+        <year>1970</year>
+    </book>
+    <book>
+        <title>Illusions</title>
+        <author>Richard Bach</author>
+        <year>1977</year>
+    </book>
+    <book>
+        <title>I am Death</title>
+        <author>Chris Carter</author>
+        <year>2016</year>
+    </book>
+</library>
