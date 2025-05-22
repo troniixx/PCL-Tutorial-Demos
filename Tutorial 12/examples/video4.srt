@@ -1,0 +1,773 @@
+1
+00:00:00,870 --> 00:00:02,370
+In this
+video, we're gonna see
+
+2
+00:00:02,370 --> 00:00:04,680
+that you could have very
+different experiences
+
+3
+00:00:04,680 --> 00:00:06,360
+with the same AI,
+
+4
+00:00:06,360 --> 00:00:10,470
+and a lot of that is depending
+on how we prompt the AI.
+
+5
+00:00:10,470 --> 00:00:13,560
+So before we even start doing
+some prompting ourselves
+
+6
+00:00:13,560 --> 00:00:15,300
+or even understanding what that means,
+
+7
+00:00:15,300 --> 00:00:17,040
+let's just play around a little bit.
+
+8
+00:00:17,040 --> 00:00:20,520
+So I'm here on my account on ChatGPT,
+
+9
+00:00:20,520 --> 00:00:25,200
+and I'm using GPT-4 as my
+model, the underlying model.
+
+10
+00:00:25,200 --> 00:00:27,540
+Remember ChatGPT is the application.
+
+11
+00:00:27,540 --> 00:00:28,800
+It can use different models.
+
+12
+00:00:28,800 --> 00:00:32,009
+I could use GPT-3.5 or GPT-4.
+
+13
+00:00:32,009 --> 00:00:33,900
+In this case, these are from open AI.
+
+14
+00:00:33,900 --> 00:00:37,230
+And let's say that I
+want help understanding
+
+15
+00:00:37,230 --> 00:00:40,410
+some concept in science.
+
+16
+00:00:40,410 --> 00:00:45,410
+So let's say I want to understand how,
+
+17
+00:00:47,820 --> 00:00:50,283
+let's say how photosynthesis works.
+
+18
+00:00:51,720 --> 00:00:53,910
+How photosynthesis works?
+
+19
+00:00:53,910 --> 00:00:55,140
+Exclamation mark.
+
+20
+00:00:55,140 --> 00:00:56,440
+I really wanna understand.
+
+21
+00:00:57,420 --> 00:01:02,160
+So over here, ChatGPT using GPT 4,
+
+22
+00:01:02,160 --> 00:01:04,410
+it's essentially creating
+a a bit of an article.
+
+23
+00:01:04,410 --> 00:01:07,020
+This is very similar to what I would see
+
+24
+00:01:07,020 --> 00:01:09,000
+if I were to go to Wikipedia,
+
+25
+00:01:09,000 --> 00:01:10,350
+or if I were to just do a web search.
+
+26
+00:01:10,350 --> 00:01:12,154
+It's actually giving
+a very lengthy article
+
+27
+00:01:12,154 --> 00:01:15,271
+whether or not I'm in
+the mood of reading this,
+
+28
+00:01:15,271 --> 00:01:16,680
+but says this is a fascinating process.
+
+29
+00:01:16,680 --> 00:01:18,420
+It allows plants and
+algae and some bacteria.
+
+30
+00:01:18,420 --> 00:01:20,160
+It talks about the absorption of light.
+
+31
+00:01:20,160 --> 00:01:21,990
+This is a pretty involved article,
+
+32
+00:01:21,990 --> 00:01:23,580
+but once again, not that different than
+
+33
+00:01:23,580 --> 00:01:26,310
+what I would find if I went
+to Wikipedia or the internet.
+
+34
+00:01:26,310 --> 00:01:29,130
+Now as a comparison, let's go to Khanmigo,
+
+35
+00:01:29,130 --> 00:01:30,240
+and do the same thing.
+
+36
+00:01:30,240 --> 00:01:33,720
+And I'm using the Tutor Me
+in math and science activity.
+
+37
+00:01:33,720 --> 00:01:36,060
+And Kahnmigo, this version of Khanmigo,
+
+38
+00:01:36,060 --> 00:01:38,940
+is still using the same underlying model.
+
+39
+00:01:38,940 --> 00:01:41,580
+It is using GPT 4 at least at the time
+
+40
+00:01:41,580 --> 00:01:43,560
+of me making this video.
+
+41
+00:01:43,560 --> 00:01:45,540
+But let me ask the same question.
+
+42
+00:01:45,540 --> 00:01:50,540
+I want to understand how
+photosynthesis works?
+
+43
+00:01:53,400 --> 00:01:55,250
+I'll do the exclamation mark as well.
+
+44
+00:01:57,660 --> 00:02:00,690
+And it says, ah, photosynthesis,
+the magic trick plants
+
+45
+00:02:00,690 --> 00:02:02,160
+use to turn sunlight into food.
+
+46
+00:02:02,160 --> 00:02:03,300
+Let's dive in.
+
+47
+00:02:03,300 --> 00:02:04,710
+First, can you tell me
+
+48
+00:02:04,710 --> 00:02:07,590
+what you already know
+about photosynthesis?
+
+49
+00:02:07,590 --> 00:02:08,423
+So know what you're thinking.
+
+50
+00:02:08,423 --> 00:02:12,120
+Wait, Sal, this is the
+exact same underlying model,
+
+51
+00:02:12,120 --> 00:02:15,030
+but it's doing something
+very different here.
+
+52
+00:02:15,030 --> 00:02:17,490
+Here it's really acting like a tutor.
+
+53
+00:02:17,490 --> 00:02:20,160
+And instead of just giving
+me a big verbal dump
+
+54
+00:02:20,160 --> 00:02:23,490
+of an article, it is actually
+asking me a question.
+
+55
+00:02:23,490 --> 00:02:25,287
+Well, I could keep going into it.
+
+56
+00:02:25,287 --> 00:02:30,287
+Oh, I know that is how plants
+
+57
+00:02:30,780 --> 00:02:35,283
+convert sunlight into food.
+
+58
+00:02:39,180 --> 00:02:42,300
+Great start, now let's dig a bit deeper.
+
+59
+00:02:42,300 --> 00:02:43,950
+Photosynthesis involves two main stages.
+
+60
+00:02:43,950 --> 00:02:45,510
+Can you name them?
+
+61
+00:02:45,510 --> 00:02:46,680
+Interesting.
+
+62
+00:02:46,680 --> 00:02:48,600
+So it's really trying to quiz me,
+
+63
+00:02:48,600 --> 00:02:49,920
+making sure that I'm understanding this.
+
+64
+00:02:49,920 --> 00:02:52,170
+So the question, and I could
+obviously spend hours talking
+
+65
+00:02:52,170 --> 00:02:54,330
+about photosynthesis with Kahnmigo,
+
+66
+00:02:54,330 --> 00:02:55,440
+but that's not the point of this video.
+
+67
+00:02:55,440 --> 00:02:58,410
+The point of this video is
+why is Kahnmigo behaving
+
+68
+00:02:58,410 --> 00:03:02,400
+so differently than that
+interaction we saw with ChatGPT,
+
+69
+00:03:02,400 --> 00:03:05,640
+even though it's using
+the same underlying model?
+
+70
+00:03:05,640 --> 00:03:08,460
+And the answer is, it's prompting.
+
+71
+00:03:08,460 --> 00:03:10,290
+There's other things
+that work with Kahnmigo,
+
+72
+00:03:10,290 --> 00:03:11,490
+but for the most part,
+
+73
+00:03:11,490 --> 00:03:14,160
+the Khan Academy team have created prompts
+
+74
+00:03:14,160 --> 00:03:16,380
+that encourage, or direct,
+
+75
+00:03:16,380 --> 00:03:18,030
+or steer is actually the right word,
+
+76
+00:03:18,030 --> 00:03:21,930
+people calling steering a model,
+to act as a socratic tutor.
+
+77
+00:03:21,930 --> 00:03:25,500
+Not to give big verbal dumps like you saw,
+
+78
+00:03:25,500 --> 00:03:27,810
+but to ask questions, make sure
+the students' understanding,
+
+79
+00:03:27,810 --> 00:03:30,300
+and then dig a little bit deeper.
+
+80
+00:03:30,300 --> 00:03:33,840
+Now you might wonder what does
+a prompt like that look like?
+
+81
+00:03:33,840 --> 00:03:35,940
+Well, I could do that here on ChatGPT,
+
+82
+00:03:35,940 --> 00:03:37,680
+although it takes a
+little bit of more work.
+
+83
+00:03:37,680 --> 00:03:42,173
+I could say something like,
+you are a socratic tutor.
+
+84
+00:03:44,160 --> 00:03:48,123
+I am your student.
+
+85
+00:03:49,290 --> 00:03:50,910
+Try.
+
+86
+00:03:50,910 --> 00:03:53,790
+Well, let's just start with
+that as a simple prompt.
+
+87
+00:03:53,790 --> 00:03:57,183
+I will ask you questions.
+
+88
+00:03:58,110 --> 00:03:59,400
+And I'm gonna copy and paste this.
+
+89
+00:03:59,400 --> 00:04:01,080
+There's more efficient ways of doing this.
+
+90
+00:04:01,080 --> 00:04:02,940
+But just so that you,
+I'll copy it for now,
+
+91
+00:04:02,940 --> 00:04:04,230
+so we can use it later.
+
+92
+00:04:04,230 --> 00:04:06,213
+And let's see what it does.
+
+93
+00:04:07,410 --> 00:04:08,580
+I'm ready to help you explore
+
+94
+00:04:08,580 --> 00:04:09,840
+and understand any questions you have.
+
+95
+00:04:09,840 --> 00:04:10,710
+What's on your mind today?
+
+96
+00:04:10,710 --> 00:04:13,710
+So it's already doing
+something very different than
+
+97
+00:04:13,710 --> 00:04:16,050
+what we saw in that previous
+example when I just asked
+
+98
+00:04:16,050 --> 00:04:17,640
+how photosynthesis works.
+
+99
+00:04:17,640 --> 00:04:21,231
+So I'm gonna say, I want to know how
+
+100
+00:04:21,231 --> 00:04:25,440
+photosynthesis works?
+
+101
+00:04:25,440 --> 00:04:26,550
+Exclamation mark.
+
+102
+00:04:26,550 --> 00:04:28,230
+Alright, great topic.
+
+103
+00:04:28,230 --> 00:04:29,610
+Let's start by exploring the basics
+
+104
+00:04:29,610 --> 00:04:31,440
+of photosynthesis together.
+
+105
+00:04:31,440 --> 00:04:35,040
+So it's still not doing what Khanmigo did.
+
+106
+00:04:35,040 --> 00:04:37,023
+It's still, you know,
+
+107
+00:04:38,430 --> 00:04:41,910
+giving me maybe a little
+bit more verbiage,
+
+108
+00:04:41,910 --> 00:04:44,550
+or more text than I might like.
+
+109
+00:04:44,550 --> 00:04:45,780
+So let's start over here.
+
+110
+00:04:45,780 --> 00:04:48,720
+Let's start another thread.
+
+111
+00:04:48,720 --> 00:04:51,030
+And this time I copy and past it.
+
+112
+00:04:51,030 --> 00:04:51,900
+Your Socratic tutor.
+
+113
+00:04:51,900 --> 00:04:55,830
+I am your student, I
+will ask you questions.
+
+114
+00:04:55,830 --> 00:05:00,830
+Keep your responses as short as possible
+
+115
+00:05:04,075 --> 00:05:05,725
+Well, let's just do that for now.
+
+116
+00:05:06,750 --> 00:05:09,120
+So that was essentially my prompt.
+
+117
+00:05:09,120 --> 00:05:11,430
+Understood, please go
+ahead with your question.
+
+118
+00:05:11,430 --> 00:05:15,273
+How does photosynthesis works?
+
+119
+00:05:16,860 --> 00:05:18,603
+Let's see how it's responding now.
+
+120
+00:05:19,500 --> 00:05:21,030
+So photosynthesis converts light energy
+
+121
+00:05:21,030 --> 00:05:21,863
+into chemical energy.
+
+122
+00:05:21,863 --> 00:05:23,130
+Plants use sunlight.
+
+123
+00:05:23,130 --> 00:05:25,710
+So it is doing what I asked it to do.
+
+124
+00:05:25,710 --> 00:05:27,150
+It's giving a shorter response.
+
+125
+00:05:27,150 --> 00:05:27,983
+Would you like more detail?
+
+126
+00:05:27,983 --> 00:05:30,360
+But it's still just kinda
+giving me the answer.
+
+127
+00:05:30,360 --> 00:05:32,160
+So I want it to be more Socratic.
+
+128
+00:05:32,160 --> 00:05:33,570
+So let's do this.
+
+129
+00:05:33,570 --> 00:05:35,640
+You are a Socratic
+tutor, I'm your student.
+
+130
+00:05:35,640 --> 00:05:40,640
+I will ask you questions,
+keep your responses
+
+131
+00:05:40,920 --> 00:05:44,100
+as short as possible,
+
+132
+00:05:44,100 --> 00:05:47,760
+and try to ask me
+
+133
+00:05:47,760 --> 00:05:51,990
+questions on my understanding,
+
+134
+00:05:51,990 --> 00:05:54,183
+rather understanding,
+
+135
+00:05:55,620 --> 00:05:59,463
+rather than just giving me answers.
+
+136
+00:06:01,094 --> 00:06:02,444
+Let's see what it does now.
+
+137
+00:06:03,510 --> 00:06:08,510
+So how does photosynthesis work?
+
+138
+00:06:13,620 --> 00:06:15,060
+Photosynthesis is the process plants use
+
+139
+00:06:15,060 --> 00:06:15,893
+to make their own food.
+
+140
+00:06:15,893 --> 00:06:18,870
+Can you tell me where it primarily
+takes place in the plant?
+
+141
+00:06:18,870 --> 00:06:21,420
+So you can see it's getting
+closer to what we just saw
+
+142
+00:06:21,420 --> 00:06:25,500
+with Kahnmigo by giving it that prompt,
+
+143
+00:06:25,500 --> 00:06:28,020
+and that prompt that we
+saw at the beginning.
+
+144
+00:06:28,020 --> 00:06:30,300
+Every time it goes back
+and forth with the AI,
+
+145
+00:06:30,300 --> 00:06:32,520
+the AI sees this at the beginning
+
+146
+00:06:32,520 --> 00:06:34,140
+of our conversation stream,
+
+147
+00:06:34,140 --> 00:06:38,310
+and that essentially primes
+the AI to behave in that way.
+
+148
+00:06:38,310 --> 00:06:40,950
+And you could do prompts to
+do some pretty fun things.
+
+149
+00:06:40,950 --> 00:06:44,010
+So let's say you, actually let me just.
+
+150
+00:06:44,010 --> 00:06:45,150
+I should have copied and paste it.
+
+151
+00:06:45,150 --> 00:06:46,830
+Actually, I think I can.
+
+152
+00:06:46,830 --> 00:06:50,010
+I can go back here.
+
+153
+00:06:50,010 --> 00:06:52,200
+Let me copy and paste what I just had,
+
+154
+00:06:52,200 --> 00:06:55,833
+and I'll create a new
+thread, a new conversation.
+
+155
+00:06:56,970 --> 00:07:00,330
+Speak in the tone
+
+156
+00:07:00,330 --> 00:07:03,003
+of Dr. Seuss.
+
+157
+00:07:04,440 --> 00:07:05,590
+Let's see what happens.
+
+158
+00:07:07,560 --> 00:07:09,720
+Oh, a question you have
+my dear friend, indeed,
+
+159
+00:07:09,720 --> 00:07:12,000
+a curious mind is a wonderful seed.
+
+160
+00:07:12,000 --> 00:07:13,980
+Now ask away, don't delay, let's proceed.
+
+161
+00:07:13,980 --> 00:07:16,080
+What's on your mind, what
+knowledge do you need?
+
+162
+00:07:16,080 --> 00:07:17,640
+I kinda like this one.
+
+163
+00:07:17,640 --> 00:07:22,413
+How does photosynthesis work?
+
+164
+00:07:24,900 --> 00:07:26,250
+In a leafy green world
+
+165
+00:07:26,250 --> 00:07:28,920
+where the sunlights a treat,
+plants take the light.
+
+166
+00:07:28,920 --> 00:07:30,480
+Oh, so bright and so neat.
+
+167
+00:07:30,480 --> 00:07:31,410
+But how do they do it?
+
+168
+00:07:31,410 --> 00:07:32,970
+You ask, isn't that sweet?
+
+169
+00:07:32,970 --> 00:07:34,290
+Can you guess what they need
+
+170
+00:07:34,290 --> 00:07:36,840
+besides light from the
+sun to make sugar and food
+
+171
+00:07:36,840 --> 00:07:38,910
+and have all of their fun?
+
+172
+00:07:38,910 --> 00:07:40,110
+So there you go.
+
+173
+00:07:40,110 --> 00:07:43,590
+That's prompting by giving
+it clear instructions
+
+174
+00:07:43,590 --> 00:07:45,720
+of what you want,
+especially when you begin.
+
+175
+00:07:45,720 --> 00:07:47,900
+And later we'll talk about
+how you can save this
+
+176
+00:07:47,900 --> 00:07:49,650
+so you don't have to
+write this every time,
+
+177
+00:07:49,650 --> 00:07:52,410
+or there's ways to do it
+depending on what app you need.
+
+178
+00:07:52,410 --> 00:07:56,880
+But this is how you can steer
+an AI, a large language model,
+
+179
+00:07:56,880 --> 00:08:00,393
+to behave in the way
+that is useful to you.
+

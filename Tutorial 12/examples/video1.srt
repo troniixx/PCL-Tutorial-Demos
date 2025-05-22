@@ -1,0 +1,293 @@
+1
+00:00:03,600 --> 00:00:05,820
+In this video,
+we're going to talk about
+
+2
+00:00:05,820 --> 00:00:09,750
+what artificial intelligence even is.
+
+3
+00:00:09,750 --> 00:00:12,960
+So to start with that, let's
+just break down these words,
+
+4
+00:00:12,960 --> 00:00:14,700
+artificial and intelligence.
+
+5
+00:00:14,700 --> 00:00:16,500
+And we could start with intelligence.
+
+6
+00:00:16,500 --> 00:00:18,213
+What does that mean to you?
+
+7
+00:00:19,050 --> 00:00:20,040
+Well, for most of us,
+
+8
+00:00:20,040 --> 00:00:24,510
+we associate intelligence
+with things that our brains,
+
+9
+00:00:24,510 --> 00:00:25,770
+that our minds, are doing.
+
+10
+00:00:25,770 --> 00:00:28,800
+Things like solving problems,
+
+11
+00:00:28,800 --> 00:00:32,100
+solving problems,
+
+12
+00:00:32,100 --> 00:00:34,263
+maybe logic,
+
+13
+00:00:35,130 --> 00:00:37,320
+maybe playing games,
+
+14
+00:00:37,320 --> 00:00:39,743
+especially games that involve the mind,
+
+15
+00:00:39,743 --> 00:00:42,690
+games like chess or checkers,
+
+16
+00:00:42,690 --> 00:00:47,520
+playing games, making recommendations,
+
+17
+00:00:47,520 --> 00:00:50,940
+making recommendations.
+
+18
+00:00:50,940 --> 00:00:54,153
+We could also imagine
+things like creativity,
+
+19
+00:00:55,020 --> 00:00:56,160
+creativity,
+
+20
+00:00:56,160 --> 00:00:58,260
+making things that have
+never existed before,
+
+21
+00:00:58,260 --> 00:00:59,190
+whether it's a painting
+
+22
+00:00:59,190 --> 00:01:01,620
+or whether it is a story of some kind.
+
+23
+00:01:01,620 --> 00:01:02,880
+And I could keep going,
+
+24
+00:01:02,880 --> 00:01:04,410
+and you could come up with your own list
+
+25
+00:01:04,410 --> 00:01:07,230
+of what do you associate
+with intelligence,
+
+26
+00:01:07,230 --> 00:01:10,980
+what do you think makes
+you or me intelligent?
+
+27
+00:01:10,980 --> 00:01:15,000
+Now let's think about this
+other word here, artificial.
+
+28
+00:01:15,000 --> 00:01:18,210
+Artificial, and it
+comes from the same root
+
+29
+00:01:18,210 --> 00:01:20,190
+as art or artifact.
+
+30
+00:01:20,190 --> 00:01:22,560
+It's really something that has been made.
+
+31
+00:01:22,560 --> 00:01:25,560
+So something made,
+
+32
+00:01:25,560 --> 00:01:30,560
+something made by humans,
+
+33
+00:01:31,200 --> 00:01:32,970
+usually by us.
+
+34
+00:01:32,970 --> 00:01:35,550
+I guess if an alien
+civilization made something,
+
+35
+00:01:35,550 --> 00:01:38,040
+that would also be considered artificial.
+
+36
+00:01:38,040 --> 00:01:39,060
+You could also view it
+
+37
+00:01:39,060 --> 00:01:42,600
+as something that would
+not exist naturally.
+
+38
+00:01:42,600 --> 00:01:46,827
+So it doesn't exist naturally,
+
+39
+00:01:48,810 --> 00:01:52,053
+so, or exist in nature.
+
+40
+00:01:53,280 --> 00:01:56,430
+So for example, my intelligence,
+
+41
+00:01:56,430 --> 00:01:58,020
+if you think I'm intelligent,
+
+42
+00:01:58,020 --> 00:01:59,610
+is natural intelligence.
+
+43
+00:01:59,610 --> 00:02:00,810
+It exists in nature,
+
+44
+00:02:00,810 --> 00:02:05,130
+it comes out of a
+biological system, my brain,
+
+45
+00:02:05,130 --> 00:02:07,050
+while what we're gonna
+talk about in a little bit
+
+46
+00:02:07,050 --> 00:02:09,180
+are things, forms of intelligence
+
+47
+00:02:09,180 --> 00:02:11,490
+or things that might be
+called an intelligence,
+
+48
+00:02:11,490 --> 00:02:14,670
+that we made, that
+doesn't exist in nature.
+
+49
+00:02:14,670 --> 00:02:17,910
+Now, a lot of y'all have
+seen science fiction movies
+
+50
+00:02:17,910 --> 00:02:21,270
+where there is some type of a robot,
+
+51
+00:02:21,270 --> 00:02:22,770
+and this is my very quick drawing
+
+52
+00:02:22,770 --> 00:02:25,410
+of a robot right over here,
+
+53
+00:02:25,410 --> 00:02:28,290
+that can talk and walk
+
+54
+00:02:28,290 --> 00:02:29,850
+and do a lot of the things
+
+55
+00:02:29,850 --> 00:02:32,880
+that we would consider intelligent.
+
+56
+00:02:32,880 --> 00:02:36,180
+And if robots like that ever exist,
+
+57
+00:02:36,180 --> 00:02:38,670
+and really every day we're
+getting closer and closer,
+
+58
+00:02:38,670 --> 00:02:40,110
+but if they ever existed,
+
+59
+00:02:40,110 --> 00:02:42,270
+these are science fiction's images
+
+60
+00:02:42,270 --> 00:02:44,430
+of what an artificial
+intelligence would be.
+
+61
+00:02:44,430 --> 00:02:46,920
+And it doesn't need to have a body.
+
+62
+00:02:46,920 --> 00:02:48,720
+You could have something
+that you just talk to.
+
+63
+00:02:48,720 --> 00:02:51,360
+There's science fiction
+movies where the spaceship,
+
+64
+00:02:51,360 --> 00:02:53,790
+you can talk to it and you
+have a conversation with it.
+
+65
+00:02:53,790 --> 00:02:55,590
+And it seems intelligent,
+
+66
+00:02:55,590 --> 00:02:57,210
+but it was created by man,
+
+67
+00:02:57,210 --> 00:02:58,860
+it is artificial.
+
+68
+00:02:58,860 --> 00:03:01,473
+It did not exist in nature by itself.
+
