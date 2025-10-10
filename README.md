@@ -1,6 +1,6 @@
 # Python Tutorial Demos
 
-Welcome to this repository! 👋
+Welcome to this repository! 👋 <br>
 This collection contains the Python demo scripts I presented during my tutorial sessions for first-year students in the PCL1 and PCL2 course.
 The goal of these demos is to explain core programming concepts in a simple, hands-on way and help beginners gain confidence in writing and understanding Python code.
 
