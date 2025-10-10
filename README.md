@@ -18,3 +18,6 @@ The goal is to show:
 - 🧑‍🎓 First-year students learning Python
 - 👩‍💻 Anyone looking for beginner-friendly code examples
 - 📚 Teaching assistants or instructors searching for classroom demos
+
+## 📜 License  
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](./LICENSE).
