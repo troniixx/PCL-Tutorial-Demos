@@ -40,7 +40,8 @@ def main():
     outfile.close()
 
     print(f"Done! The content from {input_file} has been written to {output_file}.")
-
+    print(sys.argv)
+    
 # Run the main function (ignore this for now)
 if __name__ == "__main__":
     main()

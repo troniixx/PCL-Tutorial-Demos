@@ -22,6 +22,8 @@ def main():
     logger.error('This is an ERROR message - a more serious problem that prevented something from working')
     logger.critical('This is a CRITICAL message - a very serious error that might prevent the program from running')
     
+    print("\n\n")
+    
     # Demonstrate including variables in log messages
     user_id = 12345
     items_count = 10

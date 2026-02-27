@@ -5,38 +5,44 @@ class frog():
         """
         Initialize the frog object with a name, age and hobby
         """
-
+        # These are called attributes
         self.name = name
         self.age = age
         self.hobby = hobby
 
     def jump(self):
         """
-        returns the string "Jumping"
+        Method that returns the string "Jumping"
         """
 
         return "Jumping"
     
     def swim(self):
         """       
-        returns the string "Swimming"
+        Method that returns the string "Swimming"
         """
 
         return "Swimming"
     
     def croak(self):
         """
-        returns the string "Croaking"
+        Method that returns the string "Croaking"
         """
 
         return "Croaking"
 
 class pepe(frog):
     def makeMeme(self):
+        """
+        Method that returns the string "Feels good man"
+        """
         return "Feels good man"
 
 class kermit(frog):
     def playBanjo(self):
+        """
+        Method that returns the string "Yay music"
+        """
         return "Yay music"
     
 if __name__ == "__main__":
@@ -45,7 +51,7 @@ if __name__ == "__main__":
     Feel free to comment out the lines of code that you dont want to run and play around with the code. You can also add more lines of code to learn about classes
     """
 
-    # Create objects
+    # Create instances
     frog1 = frog("Fred", 3, "playing with toy cars")
     pepe_the_frog = pepe("Pete", 2, "playing with toy cars")
     kermit_the_frog = kermit("Kermit", 4, "playing with toy cars")
